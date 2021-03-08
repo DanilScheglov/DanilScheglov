@@ -19,4 +19,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/sheglov_official)
 ### My account statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheglovofficial&show_icons=true&theme=tokyonight)](https://github.com/sheglovofficial/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheglovofficial&layout=compact&theme=tokyonight)](https://github.com/sheglovofficial/github-readme-stats)
