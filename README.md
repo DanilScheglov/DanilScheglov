@@ -20,5 +20,3 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-070c0f?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/u1ta1u1p0ogikhudx1gt9034o?si=NMQNUHxuR3yEr97DgDfw3w)
 ### My account statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheglovofficial&show_icons=true&theme=tokyonight)](https://github.com/sheglovofficial/github-readme-stats)
-
-![Footer](https://github.com/sheglovofficial/sheglovofficial/blob/main/assets/programming.gif)
