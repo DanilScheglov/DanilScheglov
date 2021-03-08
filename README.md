@@ -1,8 +1,6 @@
 ![Header](https://github.com/sheglovofficial/sheglovofficial/blob/main/assets/header.jpg)
 
 ## I'm a beginer Software Engeneer
-<hr>
-
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-070c0f?style=for-the-badge&logo=html5)
 ![HTML](https://img.shields.io/badge/-CSS-070c0f?style=for-the-badge&logo=css3)
