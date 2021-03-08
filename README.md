@@ -21,3 +21,4 @@
 ### My account statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheglovofficial&show_icons=true&theme=tokyonight)](https://github.com/sheglovofficial/github-readme-stats)
 
+![Footer](https://github.com/sheglovofficial/sheglovofficial/blob/main/assets/programming.gif)
