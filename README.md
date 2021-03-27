@@ -23,7 +23,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/sheglov_official)
 [![Instagram](https://img.shields.io/badge/-Instagram-070c0f?style=for-the-badge&logo=instagram)](https://www.instagram.com/sheglov_official/)
 [![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/sheglov_official)
-[![Spotify](https://img.shields.io/badge/-Spotify-070c0f?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/u1ta1u1p0ogikhudx1gt9034o?si=NMQNUHxuR3yEr97DgDfw3w)
 
 ### My account statistics:
 
