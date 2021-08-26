@@ -19,6 +19,6 @@
 
 ### Follow me:
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/sheglov_official)
-[![Instagram](https://img.shields.io/badge/-Instagram-070c0f?style=for-the-badge&logo=instagram)](https://www.instagram.com/sheglov_official/)
-[![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/sheglov_official)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/scheglov_danil)
+[![Instagram](https://img.shields.io/badge/-Instagram-070c0f?style=for-the-badge&logo=instagram)](https://www.instagram.com/scheglov_danil/)
+[![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/scheglov_danil)
