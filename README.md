@@ -1,5 +1,3 @@
-### Languages and Tools
-
 ### Operating systems that I use:
 
 ![Windows](https://img.shields.io/badge/-Windows-070c0f?style=for-the-badge&logo=windows)
