@@ -5,8 +5,6 @@
 - 💪 Calisthenics and Workout
 - 💻 System Administrator and Programmer
 - 📖 Lipetsk State Technical University
-<br>
-
 ## Operating systems that I use
 
 ![Windows](https://img.shields.io/badge/-Windows-070c0f?style=for-the-badge&logo=windows)
