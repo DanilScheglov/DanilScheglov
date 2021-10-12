@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Danil
 
-## I am a System Administrator and developer on the platform .NET
+## I am a System Administrator and Developer
 - 🎉 I like to automate all my work to make life easier. I also like to write code
 - 💪 Calisthenics and Workout
 - 💻 System Administrator and Programmer
@@ -21,10 +21,7 @@
 ![HTML](https://img.shields.io/badge/-html-070c0f?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-070c0f?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-070c0f?style=for-the-badge&logo=JavaScript)
-![C#](https://img.shields.io/badge/-Csharp-070c0f?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-070c0f?style=for-the-badge&logo=dotnet)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
-![Go](https://img.shields.io/badge/-Golang-070c0f?style=for-the-badge&logo=go)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheglovdanil&theme=dark&layout=compact)](https://github.com/scheglovdanil/github-readme-stats)
 
