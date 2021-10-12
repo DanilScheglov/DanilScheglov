@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Danil
 
-## I am a System Administrator and Developer
+## I am a System Administrator and developer on the platform .NET
 - 🎉 I like to automate all my work to make life easier. I also like to write code
 - 💪 Calisthenics and Workout
 - 💻 System Administrator and Programmer
