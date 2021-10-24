@@ -18,9 +18,7 @@
 
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/-html-070c0f?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-070c0f?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-070c0f?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-070c0f?style=for-the-badge&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheglovdanil&theme=dark&layout=compact)](https://github.com/scheglovdanil/github-readme-stats)
