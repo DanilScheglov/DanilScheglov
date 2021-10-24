@@ -21,6 +21,6 @@
 ![Python](https://img.shields.io/badge/-Python-070c0f?style=for-the-badge&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheglovdanil&theme=dark&layout=compact)](https://github.com/scheglovdanil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedantes&theme=dark&layout=compact)](https://github.com/thedantes/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scheglovdanil&theme=dark&show_icons=true)](https://github.com/scheglovdanil/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedantes&theme=dark&show_icons=true)](https://github.com/thedantes/github-readme-stats)
