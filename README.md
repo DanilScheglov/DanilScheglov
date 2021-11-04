@@ -15,9 +15,11 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/scheglov_danil)
 [![Instagram](https://img.shields.io/badge/-Instagram-070c0f?style=for-the-badge&logo=instagram)](https://www.instagram.com/scheglov_danil/)
 [![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/scheglov_danil)
+[![Gmail](https://img.shields.io/badge/-Gmail-070c0f?style=for-the-badge&logo=gmail)](mailto:scheglovofficial@gmail.com)
 
 ## Languages and Tools
 
+![.NET](https://img.shields.io/badge/-.NET-070c0f?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-070c0f?style=for-the-badge&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
 
