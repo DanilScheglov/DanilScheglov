@@ -19,7 +19,6 @@
 
 ## Languages and Tools
 
-![.NET](https://img.shields.io/badge/-.NET-070c0f?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-070c0f?style=for-the-badge&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
 
