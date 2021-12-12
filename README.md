@@ -18,5 +18,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-070c0f?style=for-the-badge&logo=gmail)](mailto:scheglovofficial@gmail.com)
 
 ## Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML-070c0f?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-070c0f?style=for-the-badge&logo=CSS3)
 ![JS](https://img.shields.io/badge/-JavaScript-070c0f?style=for-the-badge&logo=JavaScript)
 ![Docker](https://img.shields.io/badge/-Docker-070c0f?style=for-the-badge&logo=Docker)
