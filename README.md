@@ -21,4 +21,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-070c0f?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-070c0f?style=for-the-badge&logo=CSS3)
 ![JS](https://img.shields.io/badge/-JavaScript-070c0f?style=for-the-badge&logo=JavaScript)
-![.NET](https://img.shields.io/badge/-.net-070c0f?style=for-the-badge&logo=.NET)
