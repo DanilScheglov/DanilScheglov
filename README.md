@@ -1,24 +1,16 @@
-## 👋 Hi there, I'm Danil
+# Welcome 👋
 
-## I am a System Administrator
-- 🎉 I like to automate all my work to make life easier. I also like to write code
-- 💪 Calisthenics and Workout
-- 💻 System Administrator and Programmer
-- 📖 Lipetsk State Technical University
-## Operating systems that I use
+<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=kotlen1&show_icons=true&include_all_commits=true">
+<img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotleni">
 
-![Windows](https://img.shields.io/badge/-Windows-070c0f?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-070c0f?style=for-the-badge&logo=linux)
+Hi, my name is Danil. I am 18 years old, learning JavaScript/Node.JS development. I am a sociable person with whom you can talk on different topics. I also like to drink coffee and listen to music!
 
-## Follow me
+### Languages & Tools
+<img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-6294cb?style=flat-square&logo=C%2B%2B&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=prettier&logoColor=white" /> <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-6c6cdf?style=flat-square&logo=ESLint&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/-Discord-36393F?style=flat-square&logo=discord&logoColor=white" />
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-070c0f?style=for-the-badge&logo=vk)](https://vk.com/scheglov_danil)
-[![Instagram](https://img.shields.io/badge/-Instagram-070c0f?style=for-the-badge&logo=instagram)](https://www.instagram.com/scheglov_danil/)
-[![Telegram](https://img.shields.io/badge/-Telegram-070c0f?style=for-the-badge&logo=telegram)](https://t.me/scheglov_danil)
-[![Gmail](https://img.shields.io/badge/-Gmail-070c0f?style=for-the-badge&logo=gmail)](mailto:scheglovofficial@gmail.com)
-
-## Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-070c0f?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-070c0f?style=for-the-badge&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-070c0f?style=for-the-badge&logo=sass)
-![JS](https://img.shields.io/badge/-JavaScript-070c0f?style=for-the-badge&logo=JavaScript)
+### Socials
+- Vkontakte: https://vk.com/scheglov_danil
+- Telegram: https://t.me/scheglov_danil
+- WT: https://wakatime.com/@Kotleni
