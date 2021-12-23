@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 ![](https://komarev.com/ghpvc/?username=scheglovdanil)
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Nodersky&show_icons=true&include_all_commits=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=scheglovdanil&show_icons=true&include_all_commits=true">
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
 
 ## FullStack Web Developer and .NET Developer
