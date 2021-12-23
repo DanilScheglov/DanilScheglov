@@ -1,15 +1,23 @@
-# Welcome 👋
+### Welcome 👋
 
-<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
+![](https://komarev.com/ghpvc/?username=scheglovdanil)
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Nodersky&show_icons=true&include_all_commits=true">
-<img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
-<!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotleni"> -->
+<img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
 
-Hi, my name is Danil. I am 18 years old, learning JavaScript/Node.JS development. I am a sociable person with whom you can talk on different topics. I also like to drink coffee and listen to music!
+## FullStack Web Developer and .NET Developer
+
+Welcome to my profile! My name is Danil, I am 18 years old. At the moment I am studying programming, learning to develop software.
 
 ### Languages & Tools
 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css3" src="https://img.shields.io/badge/-CSS3-006bc0?style=flat-square&logo=CSS3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-3c873a?style=flat-square&logo=node.js&logoColor=white" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
 
 ### Socials
 - Vkontakte: https://vk.com/scheglov_danil
