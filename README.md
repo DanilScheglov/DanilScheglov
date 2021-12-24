@@ -3,6 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=scheglovdanil)
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shadowrazeeee&show_icons=true&include_all_commits=true">
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=shadowraze">
+
 
 ## FullStack Web Developer and .NET Developer
 
@@ -10,11 +13,11 @@ Welcome to my profile! My name is Danil, I am 18 years old. At the moment I am s
 
 ### Languages & Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SASS](https://img.shields.io/badge/-CS-090909?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
 <br />
 
