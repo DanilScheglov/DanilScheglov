@@ -7,7 +7,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=shadowrazeeee">
 
 
-## FullStack Web Developer and Node.js Developer
+## FullStack Web Developer and .NET Developer
 
 Welcome to my profile! My name is Danil, I am 18 years old. At the moment I am studying programming, learning to develop software.
 
