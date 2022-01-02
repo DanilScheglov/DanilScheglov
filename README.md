@@ -17,6 +17,8 @@ Welcome to my profile! My name is Danil, I am 18 years old. At the moment I am s
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.NET](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
 <br />
