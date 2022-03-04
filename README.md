@@ -1,24 +1,18 @@
-### Welcome 👋
+### Hi there 🍀
 
-![](https://komarev.com/ghpvc/?username=scheglovdanil)
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=macabrez&show_icons=true&include_all_commits=true">
-<img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center">My name is Danil Scheglov, I am a novice software engineer, mainly studying the platform <strong>.NET/ASP.NET</strong> and <strong>DevOps</strong> practices</div>
 
+---
+<div align="center">
+  
+### My primary development stack
 
-## Perfectionist, cursed to be imperfect
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logoColor=white)](#)
 
-Welcome to my profile! My name is Danil, I am 18 years old. At the moment I am studying programming, learning to develop software.
-
-### Languages & Tools
-
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
-![SASS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-
-<br />
+---
 
 ### Socials
-- Vkontakte: https://vk.com/scheglov_danil
-- Telegram: https://t.me/scheglov_danil
+  
+[![Vk](https://img.shields.io/badge/Vkontakte-5C2D91?style=for-the-badge&logo=vk&logoColor=white)](#)
+[![.Net](https://img.shields.io/badge/Telegram-5a61d7?style=for-the-badge&logo=telegram&logoColor=white)](#)
