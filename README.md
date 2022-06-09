@@ -1,6 +1,6 @@
 ### Hi there 🍀
 
-<div align="center">My name is Daniil Scheglov, I am a novice software engineer, mainly studying <strong>Frontend/Backend</strong> development and <strong>DevOps</strong> practices</div>
+<div align="center">My name is Danil Scheglov, I am a novice software engineer, mainly studying <strong>Frontend/Backend</strong> development and <strong>DevOps</strong> practices</div>
 
 ---
 <div align="center">
