@@ -16,3 +16,13 @@
   
 [![Vk](https://img.shields.io/badge/Vkontakte-5C2D91?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/scheglov_danil)
 [![Telegram](https://img.shields.io/badge/Telegram-5a61d7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scheglov_danil)
+
+</div>
+
+---
+
+<div align="center">
+<a href="https://github.com/DanilScheglov/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanilScheglov&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+</div>
