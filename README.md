@@ -7,7 +7,8 @@
   
 ### My primary development stack
 
-
+[![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logoColor=white)](#)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/DanilScheglov)](https://github.com/DanilScheglov)
 
 
@@ -22,8 +23,12 @@
 
 ---
 
-<div align="center">
-<a href="https://github.com/DanilScheglov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanilScheglov&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-</div>
+<p align="center">
+  <table>
+  <tr>
+      <td><a href="https://github.com/DanilScheglov"><img width="510px" align="left" src="https://github-readme-stats.vercel.app/api?username=DanilScheglov&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+      <td><a href="https://github.com/DanilScheglov"><img width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilScheglov&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+  </tr>   
+  </table>
+</p>
+
