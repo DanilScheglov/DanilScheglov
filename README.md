@@ -7,6 +7,8 @@
   
 ### My primary development stack
 
+[![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logoColor=white)](#)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/DanilScheglov)](https://github.com/DanilScheglov)
 
 
